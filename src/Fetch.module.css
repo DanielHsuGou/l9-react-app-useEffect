@@ -1,0 +1,8 @@
+div {
+  text-wrap: wrap;
+  width: 100%;
+}
+
+.fetch {
+  font-weight: bold;
+}
